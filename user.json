@@ -1,0 +1,24 @@
+{
+    "id":1,
+    "name":"Emad Khoda",
+    "username":"emad",
+    "password":"emad1234",
+    "email":"Emad@gmail.com",
+    "address":{
+       "street":"60 Pleasant Blvd",
+       "suite":"Apt. 1804",
+       "city":"Toronto",
+       "zipcode":"M4T1K1",
+       "geo":{
+          "lat":"-37.3159",
+          "lng":"81.1496"
+       }
+    },
+    "phone":"647-636-2065",
+    "website":"hildegard.org",
+    "company":{
+       "name":"Romaguera-Crona",
+       "catchPhrase":"Multi-layered client-server neural-net",
+       "bs":"harness real-time e-markets"
+    }
+ }
